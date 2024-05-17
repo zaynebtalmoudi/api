@@ -1,0 +1,10 @@
+h1{
+    color: rgb(28, 32, 32) !important;
+}
+Table{
+margin-top: 4rem;
+}
+th{
+    background-color: rgb(34, 42, 43) !important;
+    color: azure !important;
+}
